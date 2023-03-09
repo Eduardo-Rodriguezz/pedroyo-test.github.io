@@ -32,9 +32,18 @@ body {
 }
 
 .img-fluid {
+  font-family: 'Anton', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Signika Negative', sans-serif;
+font-family: 'Tilt Warp', cursive;
   position: absolute;
   z-index: 1;
-  top: 5%;
+  padding: 0 3px;
+  color: #ffffff;
+ font-size: 1.9rem;
+  text-align: center;
+  font-size: bold;
+  top: 18%;
   left: 50%;
   transform: translateX(-50%);
 }
